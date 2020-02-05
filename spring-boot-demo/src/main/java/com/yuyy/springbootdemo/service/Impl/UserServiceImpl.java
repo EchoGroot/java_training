@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
  * @date 2020/1/21 11:33
  */
 @Service
-public class UserServiceImpl implements UserService {
+        public class UserServiceImpl implements UserService {
 
     @Autowired
     private UserMapper userMapper;
@@ -33,5 +33,10 @@ public class UserServiceImpl implements UserService {
     //value：绑定缓存策略
     @CacheEvict(value = "users",allEntries=true)
     public void cacheEvict() {
+    }
+
+    @Override
+    public void testQuartz() {
+        System.out.println("Quartz of service");
     }
 }

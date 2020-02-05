@@ -20,6 +20,32 @@
 
     <dependencies>
 
+        <!--springboot整合quartz需要用到-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
+            <version>5.2.3.RELEASE</version>
+        </dependency>
+        <!--Quartz定时器-->
+        <dependency>
+            <groupId>org.quartz-scheduler</groupId>
+            <artifactId>quartz</artifactId>
+            <version>2.3.2</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>slf4j-api</artifactId>
+                    <groupId>org.slf4j</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+
+        <!--Scheduled定时器坐标-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context-support</artifactId>
+            <version>5.2.3.RELEASE</version>
+        </dependency>
 
         <!--redis启动器坐标-->
         <dependency>
