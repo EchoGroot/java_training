@@ -1,0 +1,23 @@
+spring:
+  cache:
+    ehcache:
+      config: ehcache.xml
+  datasource:
+    url: jdbc:mysql://localhost:3306/bjsxt?serverTimezone=UTC
+    username: root
+    password: Yuyy0800
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  type: com.alibaba.druid.pool.DruidDataSource
+
+mybatis:
+  type-aliases-package: com.yuyy.springbootdemo.pojo
+  mapper-locations: classpath*:mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+
+test:
+  temp: ${j.k.l.adc:123}
+
+
