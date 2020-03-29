@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0bb4888-def6-4d0e-921f-36941dec8615" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_training.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/MyAdaptableJobFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/MyAdaptableJobFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/QuartzConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/QuartzConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/model/TestParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/model/TestParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/ScheduleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/ScheduleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/Impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/temp/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/temp/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/test/java/com/yuyy/springbootdemo/SpringBootDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/test/java/com/yuyy/springbootdemo/SpringBootDemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo/src/test/java/com/yuyy/springbootdemo/service/Impl/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/src/test/java/com/yuyy/springbootdemo/service/Impl/UserServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/Common.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/collection/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/collection/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/common/CharsetDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/common/CharsetDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/dao/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/dao/Storage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/domain/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/domain/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/PageParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/PageParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/PageVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/PageVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/Spider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/Spider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/temp/CallableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/temp/CallableImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/temp/JDBCResultSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/temp/JDBCResultSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/temp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/temp/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/traversal/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/traversal/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/traversal/PostOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/traversal/PostOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/traversal/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/traversal/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resouces/MATA-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resouces/MATA-INF/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/yuyy/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/yuyy/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MATA-INF/applicationContext.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/Common.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/collection/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/collection/MyList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/App.class" afterDir="false" />
@@ -102,116 +49,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/三维形体的表面积.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="54" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="412">
+              <caret line="37" column="45" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="45" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#UserMapper#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/model/TestParam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" selection-start-line="9" selection-end-line="15" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#三维形体的表面积#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/mapper/UserMapper.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java_training.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="74">
+              <caret line="200" column="8" lean-forward="true" selection-start-line="200" selection-start-column="8" selection-end-line="229" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/Impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#UserServiceImpl#0" expanded="true" />
-                <element signature="e#1080#1081#0" expanded="true" />
-                <element signature="e#1135#1136#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#QuartzMain#0" expanded="true" />
+                <element signature="docComment;class#地图分析#0" expanded="true" />
+                <element signature="method#maxDistance#0;class#地图分析#0" />
+                <element signature="method#bfs#0;class#地图分析#0" />
+                <element signature="method#maxDistance1#0;class#地图分析#0" />
+                <element signature="e#6512#6886#1" />
               </folding>
             </state>
           </provider>
@@ -294,6 +154,8 @@
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/MyAdaptableJobFactory.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/QuartzConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/三维形体的表面积.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java" />
       </list>
     </option>
   </component>
@@ -343,10 +205,10 @@
     <scope name="lib" pattern="lib:*..*" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="296" />
-    <option name="y" value="191" />
-    <option name="width" value="1118" />
-    <option name="height" value="669" />
+    <option name="x" value="367" />
+    <option name="y" value="160" />
+    <option name="width" value="1116" />
+    <option name="height" value="667" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -356,34 +218,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_training" type="58d84e3e:PackageViewProjectNode" />
+              <item name="spring-boot-demo" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
               <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="spring-boot-demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="spring-boot-demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="spring-boot-demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="spring-boot-demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="spring-boot-demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -391,7 +264,7 @@
             </path>
             <path>
               <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="spring-boot-demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -400,29 +273,13 @@
             </path>
             <path>
               <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="spring-boot-demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="spring-boot-demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mapper" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java_training" type="58d84e3e:PackageViewProjectNode" />
-              <item name="spring-boot-demo" type="616d4139:PackageViewModuleNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yuyy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="algorithm" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -469,16 +326,18 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580908466240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585475854118" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.36789632" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
@@ -513,39 +372,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootDemoApplication">
+  <component name="RunManager" selected="Application.地图分析">
+    <configuration name="三维形体的表面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.三维形体的表面积" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="地图分析" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.地图分析" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuyy.collection.MyList" />
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuyy.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.temp.Test" />
-      <module name="java_training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuyy.temp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.traversal.Test" />
-      <module name="java_training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuyy.traversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -618,19 +477,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyList" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.三维形体的表面积" />
       <item itemvalue="JUnit.UserServiceImplTest.findUser" />
       <item itemvalue="JUnit.UserServiceImplTest" />
       <item itemvalue="Spring Boot.SpringBootDemoApplication" />
+      <item itemvalue="Application.地图分析" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.地图分析" />
+        <item itemvalue="Application.三维形体的表面积" />
         <item itemvalue="JUnit.UserServiceImplTest.findUser" />
         <item itemvalue="JUnit.UserServiceImplTest" />
         <item itemvalue="Application.MyList" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -686,6 +545,8 @@
       <workItem from="1581241772505" duration="2582000" />
       <workItem from="1581261919162" duration="1427000" />
       <workItem from="1581929175828" duration="1265000" />
+      <workItem from="1585111123520" duration="7624000" />
+      <workItem from="1585446723292" duration="12663000" />
     </task>
     <task id="LOCAL-00001" summary="springboot定时任务">
       <created>1580908428426</created>
@@ -730,7 +591,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133578000" />
+    <option name="totallyTimeSpent" value="153865000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,7 +606,7 @@
     <frame x="0" y="0" width="1680" height="993" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.18192919" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.18559219" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -755,8 +616,8 @@
       <window_info anchor="bottom" id="Problems" order="0" sideWeight="0.49931508" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989719" weight="0.41383353" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989719" visible="true" weight="0.25060827" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4452555" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32956153" />
@@ -765,9 +626,13 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010281" side_tool="true" weight="0.41434845" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49931508" weight="0.32590857" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3296837" />
       <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49931508" weight="0.329429" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49863014" weight="0.329429" />
+      <window_info anchor="bottom" id="Statistic" order="16" />
+      <window_info anchor="bottom" id="SonarLint" order="17" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="18" />
+      <window_info anchor="bottom" id="Tail" order="19" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Structure" order="1" sideWeight="0.5019608" weight="0.2808311" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24932976" />
@@ -781,10 +646,53 @@
       <window_info anchor="right" id="Key Promoter X" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Bean Validation" order="11" weight="0.3297587" />
       <window_info anchor="right" id="Word Book" order="12" side_tool="true" />
+      <window_info anchor="right" id="Json Parser" order="13" />
+      <window_info anchor="right" id="aiXcoder" order="14" />
+      <window_info anchor="right" id="RestServices" order="15" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="springboot定时任务" />
@@ -801,6 +709,60 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>156</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -809,39 +771,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/traversal/s12.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/traversal/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/collection.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/traversal/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/temp/CallableImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -2089,15 +2018,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
+        <state relative-caret-position="1715">
           <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="140">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2108,18 +2048,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="175">
           <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2128,7 +2058,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/model/TestParam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="175">
           <caret line="9" selection-start-line="9" selection-end-line="15" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2136,16 +2066,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java_training.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="245">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="315">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2153,9 +2090,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#QuartzMain#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/Impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
+        <state relative-caret-position="410">
           <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2166,21 +2114,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/三维形体的表面积.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="412">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#QuartzMain#0" expanded="true" />
+            <element signature="docComment;class#三维形体的表面积#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/mapper/UserMapper.xml">
+    <entry file="jar://$PROJECT_DIR$/../../../../jdk1.8.0_11/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="202">
+          <caret line="181" column="12" lean-forward="true" selection-start-line="181" selection-start-column="12" selection-end-line="181" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../jdk1.8.0_11/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="200" column="8" lean-forward="true" selection-start-line="200" selection-start-column="8" selection-end-line="229" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#地图分析#0" expanded="true" />
+            <element signature="method#maxDistance#0;class#地图分析#0" />
+            <element signature="method#bfs#0;class#地图分析#0" />
+            <element signature="method#maxDistance1#0;class#地图分析#0" />
+            <element signature="e#6512#6886#1" />
+          </folding>
         </state>
       </provider>
     </entry>
