@@ -1,8 +1,8 @@
 
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¸²‹úûÿÿÿÿ8ƒšÿƒ‘.
-P
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ôêéƒ‘.
 t
 java:S3776
-"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(œ§ýúÿÿÿÿÿ8ÓÍáƒ‘.
-n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÝÛ¥³ÿÿÿÿÿ8Ö¯Žƒ‘.
+"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(œ§ýúÿÿÿÿÿ8í“ç¬’.
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8í“ç¬’.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¸²‹úûÿÿÿÿ8í“ç¬’.
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÝÛ¥³ÿÿÿÿÿ8í“ç¬’.

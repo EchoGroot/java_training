@@ -1,7 +1,7 @@
 
-W	java:S125"<This block of commented-out lines of code should be removed.(úÓ–T8Æ»¹ƒ‘.
 ˜
 java:S1130"vRemove the declaration of thrown exception 'org.quartz.SchedulerException', as it cannot be thrown from method's body.(Ç—Íîşÿÿÿÿ8Æ»¹ƒ‘.
 
 java:S1128"dRemove this unused import 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration'.(¦–·Ë8Æ»¹ƒ‘.
+W	java:S125"<This block of commented-out lines of code should be removed.(úÓ–T8Æ»¹ƒ‘.
 X	java:S125"<This block of commented-out lines of code should be removed.(×Õà8Æ»¹ƒ‘.

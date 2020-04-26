@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0bb4888-def6-4d0e-921f-36941dec8615" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/Common.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/collection/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/collection/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/common/CharsetDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/common/CharsetDetector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/dao/Storage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/dao/Storage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/domain/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/domain/Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/service/PageParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/service/PageParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/service/PageVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/service/PageVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/service/Spider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/service/Spider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/temp/CallableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/temp/CallableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/temp/JDBCResultSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/temp/JDBCResultSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/temp/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/temp/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/traversal/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/traversal/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/traversal/PostOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/traversal/PostOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/traversal/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/traversal/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yuyy/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/yuyy/AppTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="e0bb4888-def6-4d0e-921f-36941dec8615" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-redis/target/" />
@@ -326,7 +308,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585475854118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585539445047" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -546,7 +528,7 @@
       <workItem from="1581261919162" duration="1427000" />
       <workItem from="1581929175828" duration="1265000" />
       <workItem from="1585111123520" duration="7624000" />
-      <workItem from="1585446723292" duration="12663000" />
+      <workItem from="1585446723292" duration="13262000" />
     </task>
     <task id="LOCAL-00001" summary="springboot定时任务">
       <created>1580908428426</created>
@@ -591,7 +573,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153865000" />
+    <option name="totallyTimeSpent" value="154464000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -616,7 +598,7 @@
       <window_info anchor="bottom" id="Problems" order="0" sideWeight="0.49931508" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989719" visible="true" weight="0.25060827" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989719" weight="0.25060827" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4452555" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />

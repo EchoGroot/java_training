@@ -1,0 +1,41 @@
+
+o
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(÷§ôÔ8â¼Ÿ¬’.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ááÉ£8â¼Ÿ¬’.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Í¡·æ8â¼Ÿ¬’.
+U
+java:S1117Ê"7Rename "arr" which hides the field declared at line 12.(¼Çüœ8˜µ¸¬’.
+o
+java:S1450"RRemove the "arr" field and declare it as a local variable in the relevant methods.(ëÍÃş8â¼Ÿ¬’.
+d
+java:S2259æ"AA "NullPointerException" could be thrown; "arr" is nullable here.(ƒÅÄœşÿÿÿÿ8À¡–­’.
+Z
+java:S1854""=Remove this useless assignment to local variable "lengthMin".(ïÖä8â¼Ÿ¬’.
+D
+java:S1168¦"&Return an empty array instead of null.(¥¹ï8â¼Ÿ¬’.
+Q
+java:S1066e"/Merge this if statement with the enclosing one.(ÿ®‹ºÿÿÿÿÿ8â¼Ÿ¬’.
+\
+java:S1155º">Use isEmpty() to check whether the collection is empty or not.(äÛÈü8â¼Ÿ¬’.
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(äÛÈü8â¼Ÿ¬’.
+`
+java:S1155;">Use isEmpty() to check whether the collection is empty or not.(ÜÊ˜ıÿÿÿÿ8â¼Ÿ¬’.
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(äÛÈü8â¼Ÿ¬’.
+u
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŞîÌ©ùÿÿÿÿ8‡µÚ¬’.
+Q
+java:S1066r"/Merge this if statement with the enclosing one.(®ä¼†øÿÿÿÿ8â¼Ÿ¬’.
+R
+java:S1066‹"/Merge this if statement with the enclosing one.(çãŒ…ûÿÿÿÿ8â¼Ÿ¬’.
+\
+java:S1155º">Use isEmpty() to check whether the collection is empty or not.(äÛÈü8â¼Ÿ¬’.
+L
+java:S1066W"/Merge this if statement with the enclosing one.(ŒÃÄ›8â¼Ÿ¬’.
+M
+java:S1066˜"/Merge this if statement with the enclosing one.(ëÃ¬‚8â¼Ÿ¬’.
+U	java:S106ë"9Replace this use of System.out or System.err by a logger.(ó¾ît8ûÖã¬’.
+L
+java:S1066J"/Merge this if statement with the enclosing one.(µÂ”–8â¼Ÿ¬’.
