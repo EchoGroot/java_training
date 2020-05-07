@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÈ¶ùùÿÿÿÿ8Æ»¹ƒ‘.
+s
+java:S3305"WInject this field value directly into "getRedisTemplate", the only method that uses it.(‚³²78Æ»¹ƒ‘.
+
+java:S1128"bRemove this unused import 'org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer'.(…ÿÀ“8Æ»¹ƒ‘.
+‡
+java:S1128"eRemove this unused import 'org.springframework.data.redis.connection.jedis.JedisClientConfiguration'.(‡Ü¥Àûÿÿÿÿ8Æ»¹ƒ‘.

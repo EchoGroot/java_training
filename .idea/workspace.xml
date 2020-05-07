@@ -33,16 +33,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/三维形体的表面积.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="37" column="45" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="45" />
+              <folding>
+                <element signature="docComment;class#三维形体的表面积#0" expanded="true" />
+              </folding>
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/ReflectTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-30">
@@ -66,11 +77,25 @@
               <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="docComment;class#Student#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="200" column="8" lean-forward="true" selection-start-line="200" selection-start-column="8" selection-end-line="229" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#地图分析#0" expanded="true" />
+                <element signature="method#maxDistance#0;class#地图分析#0" />
+                <element signature="method#bfs#0;class#地图分析#0" />
+                <element signature="method#maxDistance1#0;class#地图分析#0" />
+                <element signature="e#6512#6886#1" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Person.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,6 +108,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -143,15 +170,13 @@
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/model/TestParam.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/UserService.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/Impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/test/java/com/yuyy/springbootdemo/service/Impl/UserServiceImplTest.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application-dev.yml" />
         <option value="$PROJECT_DIR$/spring-boot-redis/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/spring-boot-demo/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Test.java" />
@@ -159,13 +184,29 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Student.java" />
         <option value="$PROJECT_DIR$/src/main/resouces/pro.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/ReflectTest.java" />
+=======
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuaetzDemo.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzMain.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/ScheduleDemo.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzDemo.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/MyAdaptableJobFactory.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/QuartzConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/三维形体的表面积.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="D:\softWare\apache-maven-3.5.0\conf\settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../apache-maven-3.5.4/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -184,6 +225,7 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="java_training" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+<<<<<<< HEAD
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
         <path>
@@ -266,78 +308,38 @@
           <item name="org.springframework.data:spring-data-redis:2.2.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
           <item name="org.springframework.data:spring-data-keyvalue:2.2.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
           <item name="org.springframework.data:spring-data-commons:2.2.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+=======
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.data:spring-data-redis:2.2.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework:spring-tx:5.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="java_training" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="java_training" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.data:spring-data-redis:2.2.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework:spring-oxm:5.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.data:spring-data-redis:2.2.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework:spring-aop:5.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.data:spring-data-redis:2.2.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework:spring-context-support:5.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="io.lettuce:lettuce-core:5.2.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="io.lettuce:lettuce-core:5.2.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="io.netty:netty-handler:4.1.45.Final" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="io.lettuce:lettuce-core:5.2.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="io.netty:netty-transport:4.1.45.Final" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+<<<<<<< HEAD
           <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
           <item name="io.lettuce:lettuce-core:5.2.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
           <item name="io.projectreactor:reactor-core:3.3.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+=======
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
         </path>
       </expand>
       <select />
     </treeState>
   </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
   <component name="NamedScopeManager">
     <scope name="lib" pattern="lib:*..*" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1899" />
@@ -346,13 +348,23 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
+=======
+    <option name="x" value="367" />
+    <option name="y" value="160" />
+    <option name="width" value="1116" />
+    <option name="height" value="667" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane">
+<<<<<<< HEAD
         <subPane>
           <expand>
             <path>
@@ -364,13 +376,27 @@
         </subPane>
       </pane>
       <pane id="ProjectPane">
+=======
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
         <subPane>
           <expand>
             <path>
-              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+              <item name="java_training" type="58d84e3e:PackageViewProjectNode" />
+              <item name="spring-boot-demo" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_training" type="462c0819:PsiDirectoryNode" />
               <item name="java_training" type="462c0819:PsiDirectoryNode" />
@@ -379,13 +405,53 @@
               <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
             </path>
             <path>
-              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_training" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yuyy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java_training" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_training" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yuyy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="algorithm" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+<<<<<<< HEAD
             <path>
               <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_training" type="462c0819:PsiDirectoryNode" />
@@ -421,17 +487,36 @@
               <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="java_training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="java_training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -467,6 +552,11 @@
               <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
               <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
               <item name="extractors" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+=======
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yuyy" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
             </path>
           </expand>
           <select />
@@ -488,25 +578,35 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588860925838" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585539445047" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.36789632" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.yuyy.springbootdemo.service.Impl" />
     </key>
+<<<<<<< HEAD
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+=======
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.yuyy" />
     </key>
@@ -515,8 +615,13 @@
       <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources\temp" />
       <recent name="F:\WorkSpace\java_training\src\main\java\com\yuyy\spider\common" />
     </key>
+<<<<<<< HEAD
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.yuyy.reflect.pojo" />
+=======
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources" />
@@ -535,12 +640,22 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JUnit.ReflectTest.getProperties">
     <configuration name="ReflectTest.getAndSetDeclareField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuyy.reflect.*" />
+=======
+  <component name="RunManager" selected="Application.地图分析">
+    <configuration name="三维形体的表面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.三维形体的表面积" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -552,11 +667,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ReflectTest.getConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuyy.reflect.*" />
+=======
+    <configuration name="地图分析" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.地图分析" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -568,11 +692,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ReflectTest.getField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuyy.reflect.*" />
+=======
+    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.collection.MyList" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.collection.*" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -592,10 +725,16 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
       <option name="PACKAGE_NAME" value="com.yuyy.reflect" />
       <option name="MAIN_CLASS_NAME" value="com.yuyy.reflect.ReflectTest" />
       <option name="METHOD_NAME" value="getMethod" />
       <option name="TEST_OBJECT" value="method" />
+=======
+      <option name="PACKAGE_NAME" value="com.yuyy.springbootdemo.service.Impl" />
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.springbootdemo.service.Impl.UserServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -648,14 +787,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringBootRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-redis" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yuyy.springbootredis.SpringBootRedisApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="JUnit.ReflectTest.getField" />
       <item itemvalue="JUnit.ReflectTest.getAndSetDeclareField" />
       <item itemvalue="JUnit.ReflectTest.getConstructor" />
@@ -671,6 +804,22 @@
         <item itemvalue="JUnit.ReflectTest.getConstructor" />
         <item itemvalue="JUnit.ReflectTest.getAndSetDeclareField" />
         <item itemvalue="JUnit.ReflectTest.getField" />
+=======
+      <item itemvalue="Application.MyList" />
+      <item itemvalue="Application.三维形体的表面积" />
+      <item itemvalue="JUnit.UserServiceImplTest.findUser" />
+      <item itemvalue="JUnit.UserServiceImplTest" />
+      <item itemvalue="Spring Boot.SpringBootDemoApplication" />
+      <item itemvalue="Application.地图分析" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.地图分析" />
+        <item itemvalue="Application.三维形体的表面积" />
+        <item itemvalue="JUnit.UserServiceImplTest.findUser" />
+        <item itemvalue="JUnit.UserServiceImplTest" />
+        <item itemvalue="Application.MyList" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
       </list>
     </recent_temporary>
   </component>
@@ -714,6 +863,7 @@
       <workItem from="1580642188192" duration="4745000" />
       <workItem from="1580651020920" duration="11522000" />
       <workItem from="1580821762960" duration="159000" />
+<<<<<<< HEAD
       <workItem from="1580870502442" duration="552000" />
       <workItem from="1580877435839" duration="718000" />
       <workItem from="1581855727964" duration="749000" />
@@ -727,6 +877,30 @@
       <option name="project" value="LOCAL" />
       <updated>1588693710705</updated>
     </task>
+=======
+      <workItem from="1580864871456" duration="128000" />
+      <workItem from="1580865032720" duration="854000" />
+      <workItem from="1580867973603" duration="3312000" />
+      <workItem from="1580872203666" duration="1987000" />
+      <workItem from="1580881589852" duration="3963000" />
+      <workItem from="1580887110230" duration="5317000" />
+      <workItem from="1580894674457" duration="158000" />
+      <workItem from="1580894876849" duration="190000" />
+      <workItem from="1580895107775" duration="2143000" />
+      <workItem from="1581241772505" duration="2582000" />
+      <workItem from="1581261919162" duration="1427000" />
+      <workItem from="1581929175828" duration="1265000" />
+      <workItem from="1585111123520" duration="7624000" />
+      <workItem from="1585446723292" duration="13262000" />
+    </task>
+    <task id="LOCAL-00001" summary="springboot定时任务">
+      <created>1580908428426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580908428426</updated>
+    </task>
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
@@ -763,7 +937,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="119339000" />
+=======
+    <option name="totallyTimeSpent" value="154464000" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -775,9 +953,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-7" y="-7" width="1518" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.27191782" />
+=======
+    <frame x="0" y="0" width="1680" height="993" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.18559219" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -787,24 +972,45 @@
       <window_info anchor="bottom" id="Problems" order="0" sideWeight="0.49931508" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49863014" weight="0.36510265" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
+=======
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989719" weight="0.25060827" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4452555" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49931508" weight="0.329429" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50136983" side_tool="true" visible="true" weight="0.32844576" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49931508" weight="0.3240469" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49863014" visible="true" weight="0.32844576" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010281" side_tool="true" weight="0.41434845" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49931508" weight="0.32590857" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3296837" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49931508" weight="0.329429" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49863014" weight="0.329429" />
+      <window_info anchor="bottom" id="Statistic" order="16" />
+      <window_info anchor="bottom" id="SonarLint" order="17" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="18" />
+      <window_info anchor="bottom" id="Tail" order="19" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Structure" order="1" sideWeight="0.5019608" weight="0.2808311" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24932976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Maven" order="4" weight="0.25702536" />
+=======
+      <window_info anchor="right" id="Maven" order="4" weight="0.16117217" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
@@ -812,7 +1018,14 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Key Promoter X" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Bean Validation" order="11" weight="0.3297587" />
+<<<<<<< HEAD
       <window_info anchor="right" id="RestServices" order="12" />
+=======
+      <window_info anchor="right" id="Word Book" order="12" side_tool="true" />
+      <window_info anchor="right" id="Json Parser" order="13" />
+      <window_info anchor="right" id="aiXcoder" order="14" />
+      <window_info anchor="right" id="RestServices" order="15" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -830,6 +1043,17 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+<<<<<<< HEAD
+=======
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
             </State>
           </value>
         </entry>
@@ -851,9 +1075,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Java反射练习" />
     <option name="LAST_COMMIT_MESSAGE" value="Java反射练习" />
+=======
+    <MESSAGE value="springboot定时任务" />
+    <option name="LAST_COMMIT_MESSAGE" value="springboot定时任务" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -866,6 +1095,60 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>156</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -874,6 +1157,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.3/jsoup-1.10.3.jar!/org/jsoup/select/Elements.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -935,6 +1219,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/temp/CallableImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -977,24 +1263,10 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp34913/www/web/yuyy_info/public_html/wp-config.php" />
-    <entry file="file://$USER_HOME$/Desktop/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/footer.php.copy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="672" selection-start-line="5" selection-start-column="672" selection-end-line="5" selection-end-column="672" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/footer.php" />
+    <entry file="file://$USER_HOME$/Desktop/footer.php.copy" />
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/mapper/q.fxml" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/target/classes/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/target/classes/mapper/UserMapper.xml" />
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/target/classes/application.properties" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.3.RELEASE/spring-boot-autoconfigure-2.2.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.class" />
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/test/java/com/yuyy/springbootdemo/SpringBootDemoApplicationTests.java">
@@ -1005,23 +1277,6 @@
       </provider>
     </entry>
     <entry file="file://$MAVEN_REPOSITORY$/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6.pom" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://MAVEN/com.yuyy:spring-boot-demo:0.0.1-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -2083,27 +2338,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/Impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#UserServiceImpl#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/test/java/com/yuyy/springbootdemo/service/Impl/UserServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -2111,21 +2345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/PageVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -2138,6 +2358,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-redis/src/main/java/com/yuyy/springbootredis/SpringBootRedisApplication.java" />
     <entry file="file://$PROJECT_DIR$/spring-boot-redis/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yuyy/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+          <folding>
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.2/quartz-2.3.2.jar!/org/quartz/Job.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/ScheduleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#ScheduleDemo#0" expanded="true" />
+            <element signature="docComment;method#scheduleMethod#0;class#ScheduleDemo#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/MyAdaptableJobFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#QuartzDemo#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.2.3.RELEASE/spring-context-support-5.2.3.RELEASE.jar!/org/springframework/scheduling/quartz/AdaptableJobFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="30" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/QuartzConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#simpleTriggerFactoryBean#0;class#QuartzConfig#0" expanded="true" />
+            <element signature="docComment;method#cronTriggerFactoryBean#0;class#QuartzConfig#0" expanded="true" />
+            <element signature="docComment;method#schedulerFactoryBean#0;class#QuartzConfig#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/spring-boot-redis/src/main/java/com/yuyy/springbootredis/SpringBootRedisApplication.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-redis/pom.xml" />
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -2145,38 +2453,94 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#RedisConfig#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="660">
           <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="1715">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="54" selection-end-column="21" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Groovy.json.groovy">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="150">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+=======
+        <state relative-caret-position="315">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#UserMapper#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/SpringBootDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/model/TestParam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="175">
+          <caret line="9" selection-start-line="9" selection-end-line="15" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="docComment;class#TestParam#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -2195,10 +2559,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_training.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -2213,20 +2591,62 @@
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="docComment;class#Person#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/schedule/QuartzMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#QuartzMain#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#UserServiceImpl#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="docComment;class#Student#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/三维形体的表面积.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="45" />
+          <folding>
+            <element signature="docComment;class#三维形体的表面积#0" expanded="true" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resouces/pro.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -2245,6 +2665,33 @@
             <element signature="docComment;method#getAndSetDeclareField#0;class#ReflectTest#0" expanded="true" />
             <element signature="docComment;method#getConstructor#0;class#ReflectTest#0" expanded="true" />
             <element signature="docComment;method#getMethod#0;class#ReflectTest#0" expanded="true" />
+=======
+    <entry file="jar://$PROJECT_DIR$/../../../../jdk1.8.0_11/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="181" column="12" lean-forward="true" selection-start-line="181" selection-start-column="12" selection-end-line="181" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../jdk1.8.0_11/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="200" column="8" lean-forward="true" selection-start-line="200" selection-start-column="8" selection-end-line="229" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#地图分析#0" expanded="true" />
+            <element signature="method#maxDistance#0;class#地图分析#0" />
+            <element signature="method#bfs#0;class#地图分析#0" />
+            <element signature="method#maxDistance1#0;class#地图分析#0" />
+            <element signature="e#6512#6886#1" />
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
           </folding>
         </state>
       </provider>
@@ -2255,6 +2702,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>WEB-INF</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2266,7 +2714,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring (spring-boot-demo)|Spring</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2327,7 +2775,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>Maven: org.apache.logging.log4j:log4j-to-slf4j:2.12.1</last-edited>
+=======
+          <last-edited>maven-wrapper</last-edited>
+>>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
           <splitter-proportions>
             <option name="proportions">
               <list>

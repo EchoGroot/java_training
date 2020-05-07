@@ -12,4 +12,5 @@ import org.springframework.stereotype.Service;
 public interface UserService {
     User findUser(int id, TestParam param);
     void cacheEvict();
+    void testQuartz();
 }
