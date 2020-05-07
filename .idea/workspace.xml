@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0bb4888-def6-4d0e-921f-36941dec8615" name="Default Changelist" comment="" />
+    <list default="true" id="e0bb4888-def6-4d0e-921f-36941dec8615" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-redis/target/" />
@@ -31,67 +33,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/pom.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            </state>
+          </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="28" column="21" selection-start-line="23" selection-start-column="8" selection-end-line="28" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#RedisConfig#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/ReflectTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="-30">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="docComment;method#getClass1#0;class#ReflectTest#0" expanded="true" />
+                <element signature="docComment;method#getAndSetField#0;class#ReflectTest#0" expanded="true" />
+                <element signature="docComment;method#getAndSetDeclareField#0;class#ReflectTest#0" expanded="true" />
+                <element signature="docComment;method#getConstructor#0;class#ReflectTest#0" expanded="true" />
+                <element signature="docComment;method#getMethod#0;class#ReflectTest#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/model/TestParam.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#TestParam#0" expanded="true" />
+                <element signature="docComment;class#Student#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="23" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="270">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;class#Person#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,6 +106,9 @@
       <find>zh_cn_l10n_icp_num</find>
       <find>WP_ZH_CN_ICP_NUM</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,11 +149,16 @@
         <option value="$PROJECT_DIR$/spring-boot-demo/src/test/java/com/yuyy/springbootdemo/service/Impl/UserServiceImplTest.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application-dev.yml" />
         <option value="$PROJECT_DIR$/spring-boot-redis/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-boot-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/pojo/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/resouces/pro.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/ReflectTest.java" />
       </list>
     </option>
   </component>
@@ -212,22 +207,6 @@
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
           <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
           <item name="org.springframework.boot:spring-boot-starter:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-autoconfigure:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -351,10 +330,6 @@
           <item name="io.lettuce:lettuce-core:5.2.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
           <item name="io.projectreactor:reactor-core:3.3.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
       </expand>
       <select />
     </treeState>
@@ -365,19 +340,39 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1900" />
-    <option name="height" value="1050" />
+    <option name="width" value="1899" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_training" type="58d84e3e:PackageViewProjectNode" />
+              <item name="spring-boot-demo" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
               <item name="java_training" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -391,22 +386,93 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="java_training" type="58d84e3e:PackageViewProjectNode" />
-              <item name="spring-boot-demo" type="616d4139:PackageViewModuleNode" />
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yuyy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yuyy" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resouces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yuyy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="java_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="extractors" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -422,12 +488,13 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580723272830" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588860925838" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.36789632" />
@@ -437,20 +504,23 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.yuyy.springbootdemo.service.Impl" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources" />
-      <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources\mapper" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.yuyy" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources" />
       <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources\temp" />
       <recent name="F:\WorkSpace\java_training\src\main\java\com\yuyy\spider\common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yuyy.reflect.pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources" />
+      <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources\mapper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -465,71 +535,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootDemoApplication">
-    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.collection.MyList" />
+  <component name="RunManager" selected="JUnit.ReflectTest.getProperties">
+    <configuration name="ReflectTest.getAndSetDeclareField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuyy.collection.*" />
+          <option name="PATTERN" value="com.yuyy.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.yuyy.reflect" />
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.reflect.ReflectTest" />
+      <option name="METHOD_NAME" value="getAndSetDeclareField" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.temp.Test" />
+    <configuration name="ReflectTest.getConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuyy.temp.*" />
+          <option name="PATTERN" value="com.yuyy.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.yuyy.reflect" />
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.reflect.ReflectTest" />
+      <option name="METHOD_NAME" value="getConstructor" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.traversal.Test" />
+    <configuration name="ReflectTest.getField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuyy.traversal.*" />
+          <option name="PATTERN" value="com.yuyy.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.yuyy.reflect" />
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.reflect.ReflectTest" />
+      <option name="METHOD_NAME" value="getField" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo" />
+    <configuration name="ReflectTest.getMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuyy.springbootdemo.service.Impl.*" />
+          <option name="PATTERN" value="com.yuyy.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yuyy.springbootdemo.service.Impl" />
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.springbootdemo.service.Impl.UserServiceImplTest" />
+      <option name="PACKAGE_NAME" value="com.yuyy.reflect" />
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.reflect.ReflectTest" />
+      <option name="METHOD_NAME" value="getMethod" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceImplTest.findUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo" />
+    <configuration name="ReflectTest.getProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuyy.springbootdemo.service.Impl.*" />
+          <option name="PATTERN" value="com.yuyy.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yuyy.springbootdemo.service.Impl" />
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.springbootdemo.service.Impl.UserServiceImplTest" />
-      <option name="METHOD_NAME" value="findUser" />
+      <option name="PACKAGE_NAME" value="com.yuyy.reflect" />
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.reflect.ReflectTest" />
+      <option name="METHOD_NAME" value="getProperties" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -575,21 +656,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyList" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="JUnit.UserServiceImplTest.findUser" />
-      <item itemvalue="JUnit.UserServiceImplTest" />
+      <item itemvalue="JUnit.ReflectTest.getField" />
+      <item itemvalue="JUnit.ReflectTest.getAndSetDeclareField" />
+      <item itemvalue="JUnit.ReflectTest.getConstructor" />
+      <item itemvalue="JUnit.ReflectTest.getMethod" />
       <item itemvalue="Spring Boot.SpringBootDemoApplication" />
       <item itemvalue="Spring Boot.SpringBootRedisApplication" />
+      <item itemvalue="JUnit.ReflectTest.getProperties" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserServiceImplTest.findUser" />
-        <item itemvalue="JUnit.UserServiceImplTest" />
-        <item itemvalue="Application.MyList" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.ReflectTest.getProperties" />
+        <item itemvalue="JUnit.ReflectTest.getMethod" />
+        <item itemvalue="JUnit.ReflectTest.getConstructor" />
+        <item itemvalue="JUnit.ReflectTest.getAndSetDeclareField" />
+        <item itemvalue="JUnit.ReflectTest.getField" />
       </list>
     </recent_temporary>
   </component>
@@ -633,43 +714,56 @@
       <workItem from="1580642188192" duration="4745000" />
       <workItem from="1580651020920" duration="11522000" />
       <workItem from="1580821762960" duration="159000" />
+      <workItem from="1580870502442" duration="552000" />
+      <workItem from="1580877435839" duration="718000" />
+      <workItem from="1581855727964" duration="749000" />
+      <workItem from="1588688575085" duration="601000" />
+      <workItem from="1588857067146" duration="2468000" />
     </task>
+    <task id="LOCAL-00001" summary="Java反射练习">
+      <created>1588693710705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588693710705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 15h 52m 59s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getField - 2020.05.05 at 23h 21m 14s.xml">
+      <configuration name="ReflectTest.getField" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 15h 53m 35s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getAndSetDeclareField - 2020.05.05 at 23h 21m 33s.xml">
+      <configuration name="ReflectTest.getAndSetDeclareField" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 15h 54m 22s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getConstructor - 2020.05.05 at 23h 25m 15s.xml">
+      <configuration name="ReflectTest.getConstructor" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 15h 57m 27s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getConstructor - 2020.05.05 at 23h 28m 55s.xml">
+      <configuration name="ReflectTest.getConstructor" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 16h 10m 48s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getConstructor - 2020.05.05 at 23h 31m 26s.xml">
+      <configuration name="ReflectTest.getConstructor" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 17h 09m 23s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getConstructor - 2020.05.05 at 23h 37m 03s.xml">
+      <configuration name="ReflectTest.getConstructor" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.02 at 15h 01m 31s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getMethod - 2020.05.05 at 23h 37m 23s.xml">
+      <configuration name="ReflectTest.getMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.02 at 15h 02m 41s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getMethod - 2020.05.05 at 23h 38m 37s.xml">
+      <configuration name="ReflectTest.getMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.02 at 15h 05m 05s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getProperties - 2020.05.07 at 22h 02m 24s.xml">
+      <configuration name="ReflectTest.getProperties" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.02 at 15h 10m 33s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
+    <history-entry file="ReflectTest_getProperties - 2020.05.07 at 22h 06m 01s.xml">
+      <configuration name="ReflectTest.getProperties" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110252000" />
+    <option name="totallyTimeSpent" value="119339000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -681,9 +775,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1518" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.24932976" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.27191782" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -693,24 +787,24 @@
       <window_info anchor="bottom" id="Problems" order="0" sideWeight="0.49931508" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989719" weight="0.41434845" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49863014" weight="0.36510265" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49931508" weight="0.329429" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010281" side_tool="true" weight="0.41434845" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49931508" weight="0.32650074" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50136983" side_tool="true" visible="true" weight="0.32844576" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49931508" weight="0.3240469" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49931508" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49863014" visible="true" weight="0.32844576" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49863014" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Structure" order="1" sideWeight="0.5019608" weight="0.2808311" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24932976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.37671232" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25702536" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
@@ -718,10 +812,48 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Key Promoter X" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Bean Validation" order="11" weight="0.3297587" />
+      <window_info anchor="right" id="RestServices" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Java反射练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java反射练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,47 +874,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/Spider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/spider/dao/Storage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/spider/domain/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/spider/common/CharsetDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/spider/service/PageParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.3/jsoup-1.10.3.jar!/org/jsoup/select/Elements.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -2047,22 +2138,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-redis/src/main/java/com/yuyy/springbootredis/SpringBootRedisApplication.java" />
     <entry file="file://$PROJECT_DIR$/spring-boot-redis/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="28" column="21" selection-start-line="23" selection-start-column="8" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/config/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -2071,6 +2146,23 @@
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#RedisConfig#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Groovy.json.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -2085,13 +2177,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/ehcache.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -2099,12 +2184,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/java/com/yuyy/springbootdemo/controller/PageController.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="210">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#Person#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="docComment;class#Student#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resouces/pro.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yuyy/reflect/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;method#getClass1#0;class#ReflectTest#0" expanded="true" />
+            <element signature="docComment;method#getAndSetField#0;class#ReflectTest#0" expanded="true" />
+            <element signature="docComment;method#getAndSetDeclareField#0;class#ReflectTest#0" expanded="true" />
+            <element signature="docComment;method#getConstructor#0;class#ReflectTest#0" expanded="true" />
+            <element signature="docComment;method#getMethod#0;class#ReflectTest#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2162,7 +2302,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-boot-demo</last-edited>
+          <last-edited>java_training</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2187,7 +2327,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.30</last-edited>
+          <last-edited>Maven: org.apache.logging.log4j:log4j-to-slf4j:2.12.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
