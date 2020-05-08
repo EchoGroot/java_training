@@ -2,11 +2,14 @@ package com.yuyy.reflect;
 
 import org.junit.jupiter.api.Test;
 
+import java.io.IOException;
+import java.io.InputStream;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Arrays;
+import java.util.Properties;
 
 /**
  * @author yuyy
@@ -127,6 +130,40 @@ public class ReflectTest {
 
         method = personClass.getMethod("eat",String.class);
         method.invoke(obj,"balala");
+    }
+
+    /**
+     * 跟句配置文件实例对应的对象
+     * @throws IOException
+     * @throws ClassNotFoundException
+     * @throws IllegalAccessException
+     * @throws InstantiationException
+     * @throws NoSuchMethodException
+     * @throws InvocationTargetException
+     */
+    @Test
+    public void getProperties() throws IOException, ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
+        //1.加载配置文件
+        //1.1创建Properties对象
+        Properties pro = new Properties();
+        //1.2加载配置文件
+        //1.2.1获取class目录下的配置文件(使用类加载器)
+        ClassLoader classLoader = ReflectTest.class.getClassLoader();
+        InputStream inputStream = classLoader.getResourceAsStream("pro.properties");
+        pro.load(inputStream);
+
+        //2.获取配置文件中定义的数据
+        String className = pro.getProperty("className");
+        String methodName = pro.getProperty("methodName");
+
+        //3.加载该类进内存
+        Class cls = Class.forName(className);
+        //4.创建对象
+        Object obj = cls.newInstance();
+        //5.获取方法对象
+        Method method = cls.getMethod(methodName);
+        //6.执行方法
+        method.invoke(obj);
     }
 
 
