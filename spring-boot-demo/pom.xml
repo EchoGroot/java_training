@@ -21,13 +21,13 @@
 
     <dependencies>
 
-<<<<<<< HEAD
+
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version>
             <scope>provided</scope>
-=======
+        </dependency>
         <!--springboot整合quartz需要用到-->
         <dependency>
             <groupId>org.springframework</groupId>
@@ -53,7 +53,6 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-context-support</artifactId>
             <version>5.2.3.RELEASE</version>
->>>>>>> 3632f3018b89ca81cb6512ada3780faf284a9cb4
         </dependency>
 
         <!--redis启动器坐标-->
@@ -123,29 +122,29 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
-           <dependency>
-               <groupId>org.springframework.boot</groupId>
-               <artifactId>spring-boot-devtools</artifactId>
-               <optional>true</optional>
-               <version>2.2.3.RELEASE</version>
-           </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <optional>true</optional>
+            <version>2.2.3.RELEASE</version>
+        </dependency>
 
     </dependencies>
 
     <build>
         <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-                <!--<dependencies>
-                    <dependency>
-                        <groupId>org.springframework</groupId>
-                        <artifactId>springloaded</artifactId>
-                        <version>1.2.8.RELEASE</version>
-                    </dependency>
-                </dependencies>-->
+<!--            <plugin>-->
+<!--                <groupId>org.springframework.boot</groupId>-->
+<!--                <artifactId>spring-boot-maven-plugin</artifactId>-->
+<!--                &lt;!&ndash;<dependencies>-->
+<!--                    <dependency>-->
+<!--                        <groupId>org.springframework</groupId>-->
+<!--                        <artifactId>springloaded</artifactId>-->
+<!--                        <version>1.2.8.RELEASE</version>-->
+<!--                    </dependency>-->
+<!--                </dependencies>&ndash;&gt;-->
 
-            </plugin>
+<!--            </plugin>-->
         </plugins>
 
     </build>
