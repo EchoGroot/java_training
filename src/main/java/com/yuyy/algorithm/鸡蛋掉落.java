@@ -23,7 +23,9 @@ public class 鸡蛋掉落 {
     public void test(){
         totalFloor=14;
         totalEgg=3;
-        System.out.println(fun(totalFloor,totalEgg));
+
+//        System.out.println(fun(totalFloor,totalEgg));
+        System.out.println(dg(14,3));
     }
 
     @Test
@@ -46,8 +48,7 @@ public class 鸡蛋掉落 {
         System.out.println(counts[eggs][levels]);
     }
 
-    @Test
-    public void dg(int egg,int floor){
+    public int dg(int egg,int floor){
         int[][] num=new int[egg+1][floor+1]; //为了表达更清楚，存储数据下标不从0开始
         for (int i =1; i <= egg; i++) {
             for(int j=1;j<=floor;j++){
@@ -55,12 +56,31 @@ public class 鸡蛋掉落 {
             }
         }
         for (int i = 2; i <= egg; i++) { //从两个个鸡蛋开始，因为一个鸡蛋的情况就是最坏的情况，已得出
-            for(int j=1;j<=floor;j++){ // 从一楼开始打表
-                for(int k=1;k<j;k++){ // 从一楼一直扔到j-1楼，取最小的次数
-                    num[i][j]=Math.min(num[i][j],1+Math.max(num[i-1][k-1],num[i][j-k]));
+            for(int j=1;j<=floor;j++){ // 从一楼开始打表,为了节约空间
+//                for(int k=1;k<=j;k++){ // 从一楼一直扔到j-1楼，取最小的次数
+//                    num[i][j]=Math.min(num[i][j],1+Math.max(num[i-1][k-1],num[i][j-k]));
+//                }
+                int low=1;
+                int high=j;
+                int mid=0;
+                while(low<high){
+                    mid=(high+low)/2;
+                    int lowNum=Math.max(num[i-1][low-1],num[i][j-low]);
+                    int highNum=Math.max(num[i-1][high-1],num[i][j-high]);
+                    if(lowNum<=highNum){
+                        high=mid;
+                    }else{
+                        low=mid;
+                    }
                 }
+                if(mid!=0){
+                    num[i][j]=1+Math.max(num[i-1][mid-1],num[i][j-mid]);
+                }
+
             }
         }
-        System.out.println(num[egg][floor]); //因数组处理过，下标并不是0开始，可直接取
+        return num[egg][floor]; //因数组处理过，下标并不是0开始，可直接取
     }
+
+
 }
