@@ -19,16 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0bb4888-def6-4d0e-921f-36941dec8615" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e0bb4888-def6-4d0e-921f-36941dec8615" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_training.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yuyy/reflect/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/algorithm/地图分析.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/algorithm/地图分析.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yuyy/AppTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/common/CharsetDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/common/CharsetDetector.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/yuyy/spider/service/PageVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuyy/spider/service/PageVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/yuyy/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +78,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../software/Apache/maven/apache-maven-3.0.4" />
-        <option name="userSettingsFile" value="D:\software\Apache\maven\apache-maven-3.0.4\conf\settings_old.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../software/Apache/maven/maven3" />
+        <option name="userSettingsFile" value="D:\software\Apache\maven\maven3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -126,11 +124,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.36789632" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -152,7 +151,7 @@
       <recent name="F:\WorkSpace\java_training\spring-boot-demo\src\main\resources\mapper" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReflectTest.getProperties">
+  <component name="RunManager" selected="Application.二叉树遍历">
     <configuration name="三维形体的表面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.三维形体的表面积" />
       <module name="java_training" />
@@ -166,12 +165,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.collection.MyList" />
+    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.从尾到头打印链表" />
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuyy.collection.*" />
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.二叉树遍历" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,48 +204,137 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectTest.getProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.从尾到头打印链表" />
       <module name="java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuyy.reflect.*" />
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yuyy.reflect" />
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.reflect.ReflectTest" />
-      <option name="METHOD_NAME" value="getProperties" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.替换空格" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二维数组中的查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.二维数组中的查找" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二维数组中的查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.二维数组中的查找" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二维数组中的查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.二维数组中的查找" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二维数组中的查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.二维数组中的查找" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.数组中重复的数字" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.数组中重复的数字" />
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="在D天内送达包裹的能力.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuyy.algorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.在D天内送达包裹的能力" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo" />
+    <configuration name="鸡蛋掉落.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuyy.springbootdemo.service.Impl.*" />
+          <option name="PATTERN" value="com.yuyy.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yuyy.springbootdemo.service.Impl" />
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.springbootdemo.service.Impl.UserServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceImplTest.findUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuyy.springbootdemo.service.Impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yuyy.springbootdemo.service.Impl" />
-      <option name="MAIN_CLASS_NAME" value="com.yuyy.springbootdemo.service.Impl.UserServiceImplTest" />
-      <option name="METHOD_NAME" value="findUser" />
+      <option name="PACKAGE_NAME" value="com.yuyy.algorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.yuyy.algorithm.鸡蛋掉落" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -272,20 +373,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyList" />
       <item itemvalue="Application.三维形体的表面积" />
-      <item itemvalue="JUnit.UserServiceImplTest.findUser" />
-      <item itemvalue="JUnit.UserServiceImplTest" />
+      <item itemvalue="JUnit.鸡蛋掉落.test" />
+      <item itemvalue="JUnit.在D天内送达包裹的能力.test" />
       <item itemvalue="Spring Boot.SpringBootDemoApplication" />
-      <item itemvalue="JUnit.ReflectTest.getProperties" />
+      <item itemvalue="Application.从尾到头打印链表" />
+      <item itemvalue="Application.二叉树遍历" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReflectTest.getProperties" />
+        <item itemvalue="Application.二叉树遍历" />
+        <item itemvalue="Application.从尾到头打印链表" />
+        <item itemvalue="JUnit.在D天内送达包裹的能力.test" />
         <item itemvalue="Application.三维形体的表面积" />
-        <item itemvalue="JUnit.UserServiceImplTest.findUser" />
-        <item itemvalue="JUnit.UserServiceImplTest" />
-        <item itemvalue="Application.MyList" />
+        <item itemvalue="JUnit.鸡蛋掉落.test" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +447,20 @@
       <workItem from="1588850058841" duration="996000" />
       <workItem from="1588851100565" duration="1090000" />
       <workItem from="1588912889072" duration="2255000" />
-      <workItem from="1588931809127" duration="324000" />
+      <workItem from="1588931809127" duration="1901000" />
+      <workItem from="1589284338277" duration="7031000" />
+      <workItem from="1589353138574" duration="169000" />
+      <workItem from="1589353362037" duration="1927000" />
+      <workItem from="1589431295930" duration="4211000" />
+      <workItem from="1589504318827" duration="2409000" />
+      <workItem from="1589851057495" duration="2204000" />
+      <workItem from="1589948944061" duration="993000" />
+      <workItem from="1590022249530" duration="2176000" />
+      <workItem from="1590066189508" duration="9004000" />
+      <workItem from="1590485650638" duration="182000" />
+      <workItem from="1591059347950" duration="2811000" />
+      <workItem from="1591145800988" duration="878000" />
+      <workItem from="1591147234864" duration="6822000" />
     </task>
     <task id="LOCAL-00001" summary="springboot定时任务">
       <created>1580908428426</created>
@@ -355,40 +469,29 @@
       <option name="project" value="LOCAL" />
       <updated>1580908428426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java反射">
+      <created>1588932404180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588932404180</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1590153863196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590153863196</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1591064158999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591064158999</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 15h 52m 59s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 15h 53m 35s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 15h 54m 22s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 15h 57m 27s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 16h 10m 48s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.01 at 17h 09m 23s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.02 at 15h 01m 31s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.02 at 15h 02m 41s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.02 at 15h 05m 05s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceImplTest_findUser - 2020.02.02 at 15h 10m 33s.xml">
-      <configuration name="UserServiceImplTest.findUser" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
@@ -421,29 +524,87 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="springboot定时任务" />
-    <option name="LAST_COMMIT_MESSAGE" value="springboot定时任务" />
+    <MESSAGE value="Java反射" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1588852856510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588852856510" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1588850864349">
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1591190580136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588850864349" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591190580136" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1590155692562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1590155692562" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590026534035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1590026534035" />
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom" timestamp="1591254756595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591254756595" />
+    <state width="1877" height="374" key="GridCell.Tab.0.center" timestamp="1591254756595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591254756595" />
+    <state width="1877" height="374" key="GridCell.Tab.0.left" timestamp="1591254756594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591254756594" />
+    <state width="1877" height="374" key="GridCell.Tab.0.right" timestamp="1591254756595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591254756595" />
+    <state width="1877" height="390" key="GridCell.Tab.1.bottom" timestamp="1591146575346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591146575346" />
+    <state width="1877" height="390" key="GridCell.Tab.1.center" timestamp="1591146575345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.center/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591146575345" />
+    <state width="1877" height="390" key="GridCell.Tab.1.left" timestamp="1591146575345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.left/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591146575345" />
+    <state width="1877" height="390" key="GridCell.Tab.1.right" timestamp="1591146575346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.right/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591146575346" />
     <state x="0" y="0" key="MergeDialog" timestamp="1588916258614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="MergeDialog/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588916258614" />
-    <state x="385" y="105" key="SettingsEditor" timestamp="1588931842049">
+    <state x="385" y="105" key="SettingsEditor" timestamp="1590026559301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="385" y="105" key="SettingsEditor/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588931842049" />
-    <state x="754" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588916136867">
+    <state x="385" y="105" key="SettingsEditor/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1590026559301" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591064174548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="754" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588916136867" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591064174548" />
+    <state x="754" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591063952647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591063952647" />
+    <state x="334" y="129" key="new project wizard" timestamp="1589362354059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1589362354059" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1591146434717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591146434717" />
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1591190566421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1591190566421" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -500,6 +661,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/地图分析.java</url>
           <line>66</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/鸡蛋掉落.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/二维数组中的查找.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yuyy/algorithm/在D天内送达包裹的能力.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
