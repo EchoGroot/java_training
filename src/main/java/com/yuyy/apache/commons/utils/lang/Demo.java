@@ -1,4 +1,4 @@
-package com.yuyy.apachcommonsutils;
+package com.yuyy.apache.commons.utils.lang;
 
 import com.google.common.collect.Lists;
 import org.apache.commons.lang3.ArrayUtils;

@@ -3,6 +3,8 @@ package com.yuyy.temp;
 
 
 import org.apache.commons.lang3.ArrayUtils;
+import org.apache.commons.lang3.RandomStringUtils;
+import org.apache.commons.lang3.RandomUtils;
 
 import java.io.*;
 import java.util.stream.Stream;
@@ -65,6 +67,14 @@ public class Test {
         pool.shutdown();*/
 
 
+    }
+
+    @org.junit.Test
+    public void apacheCommons(){
+        System.out.println(RandomStringUtils.randomAscii(5));
+        System.out.println(RandomStringUtils.randomNumeric(5));
+        System.out.println(RandomStringUtils.randomPrint(5));
+        System.out.println(RandomUtils.nextInt());
     }
 
 

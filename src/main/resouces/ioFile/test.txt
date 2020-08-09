@@ -1,0 +1,7 @@
+-- listing properties --
+user=bob
+age=41
+#\u54C8\u54C8
+#Sun Aug 09 15:42:18 CST 2020
+age=41
+user=bob
